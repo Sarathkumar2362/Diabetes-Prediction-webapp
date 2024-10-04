@@ -74,9 +74,3 @@ This project is licensed under the **MIT License** - see the **LICENSE** file fo
 - Flask for the web framework.
 - Pandas for data manipulation.
 
-## Contact:
-If you have any questions or suggestions, feel free to reach out:
-- Email: [Email-Me](mailto:kishorekumar1409@example.com)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/kishorekumar1409/)
-
-*Project Report*:[Project report.docx](https://github.com/user-attachments/files/16432283/Project.report.docx)
